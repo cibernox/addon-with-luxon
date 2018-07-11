@@ -1,0 +1,1 @@
+export { default } from 'addon-that-uses-luxon/components/luxon-component';
